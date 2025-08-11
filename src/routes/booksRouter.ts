@@ -1,8 +1,15 @@
 // import necessary modules
 
-//step 1: Define the routes for the books API
-//step 2: Fetch all books >> method GET, route "/"
-//step 3: Fetch a book by ID >> method GET, route "/:id"
-//step 4: Create a new book >> method POST, route "/"
+// Create a new router instance
+
+// step 1: Fetch all books >> method GET, route "/"
+
+// step 2: Fetch a book by ID >> method GET, route "/:id"
+
+// step 3: Create a new book >> method POST, route "/"
+
+// Bonus Challenge 1: Update a book by ID
+
+// Bonus Challenge 2: Delete a book by ID
 
 // Export the router to be used in the main app

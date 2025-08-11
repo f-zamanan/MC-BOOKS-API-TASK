@@ -1,10 +1,8 @@
-import express from "express";
+//step 1: import necessary modules
 
-const app = express();
-app.use(express.json()); // Middleware to parse JSON bodies
+//step 2: Create an instance of express
+//step 3: Middleware to parse JSON bodies
 
-// Define the main routes for the application
+//step 3: Define the main routes for the application
 
-app.listen(3000, () => {
-  console.log("Server is running on https://http://localhost:3000");
-});
+//step4: start the server
